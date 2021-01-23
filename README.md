@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Marcos Barbosa. Currently working as front-end developer for RD.
-## <a name=“section”><a/>
+
 Would you like to find me?
 
 * 👨‍💻 Working with framework Angular.
