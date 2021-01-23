@@ -4,7 +4,7 @@ I'm Marcos Barbosa. Currently working as front-end developer for RD.
 
 Would you like to find me?
 
-* 💻 Working with framework Angular.
+* 👨‍💻 Working with framework Angular.
 * 🌎 São Paulo - Brazil.
 * 🦾 Technology ennthusiast.
 
