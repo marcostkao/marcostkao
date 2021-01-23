@@ -1,17 +1,16 @@
 # Hi there 👋
 
 I'm Marcos Barbosa. Currently working as front-end developer for RD.
-
 ## <a name=“section”><a/>
-
 Would you like to find me?
 
 * 👨‍💻 Working with framework Angular.
 * 🦾 Technology ennthusiast.
 * 🌎 São Paulo - Brazil.
+* [mail](mailto:marcostkao@gmail.com)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](
 https://www.linkedin.com/in/marcos-takao/)
 
-<a href="mailto:marcostkao@gmail.com?"></a>
+
