@@ -7,7 +7,7 @@ Would you like to find me?
 * 👨‍💻 Working with framework Angular.
 * 🦾 Technology ennthusiast.
 * 🌎 São Paulo - Brazil.
-* [mail](mailto:marcostkao@gmail.com)
+* 📩 Feel free to [e-mail](mailto:marcostkao@gmail.com) me.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](
