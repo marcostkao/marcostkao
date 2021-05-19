@@ -1,6 +1,5 @@
 # Hi there 👋
 
-I'm Marcos Barbosa. Currently working as front-end developer for RD.
 
 Would you like to find me?
 
