@@ -2,9 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Marcos+Barbosa;Be+Welcome!:%29)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F400&background=FFFFFF00&width=435&lines=Hello+my+name+is+Marcos+Barbosa;Be+Welcome+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/??font=Cutive+Mono&color=FFFF00&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Marcos+Barbosa;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 
 
