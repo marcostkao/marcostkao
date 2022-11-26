@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&pause=4000&color=D2FF50&background=FFFFFF00&width=435&lines=Hello+my+name+is+Marcos+Barbosa;Be+Welcome+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&pause=4000&color=D2FF50&background=FFFFFF00&width=435&lines=Hello;Be+Welcome+:%29)](https://git.io/typing-svg)
 
 
 &#x1f4c8; GitHub Stats
