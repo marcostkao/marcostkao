@@ -1,6 +1,9 @@
 # Hi there 👋
 
 
+My name is Marcos Barbosa and I'm from Brazil (🇧🇷). I've been working as a Front-End Developer since 2019. I currently work as a Application Developer at IBM using React. :)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&pause=4000&color=D2FF50&background=FFFFFF00&width=435&lines=>+Hello+World!_;Be+Welcome+:%29)](https://git.io/typing-svg)
 
 
