@@ -6,42 +6,16 @@ My name is Marcos Barbosa and I'm from Brazil (🇧🇷). I've been working as a
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&pause=4000&color=D2FF50&background=FFFFFF00&width=435&lines=>+Hello+World!_;Be+Welcome+:%29)](https://git.io/typing-svg)
 
-<details closed>
-<summary>About me 👈😊</summary>
-
----
-
-
-<div align="right" style="margin:auto">
-       <a href="https://github.com/marcostkao">
-        <img height="170em"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostkao&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
-             alt="Most used languages"
-             align="right">
-    </a>
-</div>
-
-
-Hey there!! I am Marcos,
-
-I am pretty much a life long learner.
-
-
-<div>
-    <div align="right" style="margin:auto">
-       <a href="https://github.com/marcostkao">
-            <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcostkao&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
-                 alt="Wakatime stats" align="right" />
-        </a>
-</div>
-
 
 &#x1f4c8; GitHub Stats
 
 <div>
   <a href="https://github.com/marcostkao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostkao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostkao&layout=compact&langs_count=16&theme=dracula"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostkao&layout=compact&langs_count=16&theme=dracula"/> -->
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostkao&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1"
+             alt="Most used languages"
+             align="right">
   </a>
 <div>
 
