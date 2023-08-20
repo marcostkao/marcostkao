@@ -33,11 +33,12 @@ My name is Marcos Barbosa and I'm from Brazil (🇧🇷). I've been working as a
 
 
  <p><b>Contact:</b></p><br>
+ 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-takao)](
   https://www.linkedin.com/in/marcos-takao/)
 
   <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img height="10px" align="center" src="https://profile-counter.glitch.me/{marcostkao}/count.svg" /></p> 
+<p align="center"><img height="30px" align="center" src="https://profile-counter.glitch.me/{marcostkao}/count.svg" /></p> 
 <br>
 </div>
