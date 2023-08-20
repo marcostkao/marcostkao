@@ -13,7 +13,7 @@ My name is Marcos Barbosa and I'm from Brazil (🇧🇷). I've been working as a
   <a href="https://github.com/marcostkao">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostkao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostkao&layout=compact&langs_count=16&theme=dracula"/> -->
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostkao&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1"
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostkao&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1"
              alt="Most used languages"
              align="right">
   </a>
