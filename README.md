@@ -33,7 +33,7 @@ My name is Marcos Barbosa and I'm from Brazil (🇧🇷). I've been working as a
 <img src="https://camo.githubusercontent.com/6fb1e910a4560f6379900ad3012ca4623482d5d9985ae205dca71499c79daa6e/68747470733a2f2f736474696d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f315f74665a6134767349365575734a59745f667a76476e512e706e67" height="35px" data-canonical-src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" style="max-width: 100%;">
 </p>
 
-# Contact
+Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-takao)](
 https://www.linkedin.com/in/marcos-takao/)
   
