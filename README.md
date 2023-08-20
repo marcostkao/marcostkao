@@ -39,6 +39,6 @@ My name is Marcos Barbosa and I'm from Brazil (🇧🇷). I've been working as a
 
   <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img height="20px" align="center" src="https://profile-counter.glitch.me/{marcostkao}/count.svg" /></p> 
+<p align="center"><img height="15px" align="center" src="https://profile-counter.glitch.me/{marcostkao}/count.svg" /></p> 
 <br>
 </div>
