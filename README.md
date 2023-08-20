@@ -35,9 +35,11 @@ My name is Marcos Barbosa and I'm from Brazil (🇧🇷). I've been working as a
 
 <div>
   <p><b>Contact:</b></p><br>
+
+</div>
+
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-takao)](
   https://www.linkedin.com/in/marcos-takao/)
-</div>
 
   
   
