@@ -1,11 +1,8 @@
-# Hi there 👋
+# 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&pause=4000&color=D2FF50&background=FFFFFF00&width=435&lines=>+Hi+there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="15px">_;Be+Welcome+:%29)](https://git.io/typing-svg)
 
 
 My name is Marcos Barbosa and I'm from Brazil (🇧🇷). I've been working as a Front-End Developer since 2019. I currently work as a Application Developer at IBM using React. :)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cutive+Mono&pause=4000&color=D2FF50&background=FFFFFF00&width=435&lines=>+Hello+World!_;Be+Welcome+:%29)](https://git.io/typing-svg)
-
 
 &#x1f4c8; GitHub Stats
 
